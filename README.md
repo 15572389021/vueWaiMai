@@ -1,4 +1,4 @@
-# project1
+# vue practice project
 
 ## Project setup
 ```
@@ -15,15 +15,6 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
+### My site 
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://live4today.top
